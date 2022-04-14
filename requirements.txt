@@ -1,0 +1,16 @@
+base36==0.1.1
+certifi==2021.10.8
+cffi==1.15.0
+charset-normalizer==2.0.12
+cryptography==36.0.1
+h11==0.13.0
+HAP-python==4.4.0
+idna==3.3
+ifaddr==0.1.7
+numpy==1.22.3
+pycparser==2.21
+PyQRCode==1.2.1
+requests==2.27.1
+urllib3==1.26.8
+zeroconf==0.38.4
+ 

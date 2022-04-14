@@ -1,0 +1,35 @@
+{
+    "Blink":
+    {"mainseg":0,"seg":[{"id":0,"grp":1,"spc":0,"of":0,"on":true,"frz":false,"bri":255,"cct":127,
+    "col":[[64,255,0],[255,0,0],[223,0,19]],"fx":2,"sx":193,"ix":61,"pal":3,"sel":true,"rev":false,"mi":false}]
+    },
+    "Regenbogen":
+    {"mainseg":0,"seg":[{"id":0,"grp":1,"spc":0,"of":0,"on":true,"frz":false,"bri":255,"cct":127,
+    "col":[[255,0,0],[0,0,255],[223,0,19]],"fx":30,"sx":50,"ix":61,"pal":0,"sel":true,"rev":false,"mi":false}]
+    },
+    "Polizei":
+    {"mainseg":0,"seg":[{"id":0,"grp":1,"spc":0,"of":0,"on":true,"frz":false,"bri":255,"cct":127,
+    "col":[[255,0,255],[0,0,255],[8,255,0]],"fx":48,"sx":128,"ix":113,"pal":0,"sel":true,"rev":false,"mi":false}]
+    },
+    "TV":
+    {"mainseg":0,"seg":[{"id":0,"grp":1,"spc":0,"of":0,"on":true,"frz":false,"bri":255,"cct":127,
+    "fx":116,"sx":136,"ix":165,"pal":0,"sel":true,"rev":false,"mi":false}]
+    },
+    "Psycho":
+    {"mainseg":0,"seg":[{"id":0,"grp":1,"spc":0,"of":0,"on":true,"frz":false,"bri":255,"cct":127,
+    "col":[[255,0,0],[0,0,255],[255,8,12]],"fx":25,"sx":208,"ix":235,"pal":0,"sel":true,"rev":false,"mi":false}]
+    },
+    "Kerze":
+    {"mainseg":0,"seg":[{"id":0,"grp":1,"spc":0,"of":0,"on":true,"frz":false,"bri":255,"cct":127,
+    "col":[[255,111,33],[255,127,54],[255,45,25]],"fx":102,"sx":148,"ix":235,"pal":4,"sel":true,"rev":false,"mi":false}]
+    },
+    "Happy":
+    {"mainseg":0,"seg":[{"id":0,"grp":1,"spc":0,"of":0,"on":true,"frz":false,"bri":255,"cct":127,
+    "col":[[255,251,18],[84,93,255],[255,8,12]],"fx":97,"sx":148,"ix":235,"pal":0,"sel":true,"rev":false,"mi":false}]
+    }
+
+
+
+
+
+}
