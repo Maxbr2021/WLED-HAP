@@ -1,0 +1,9 @@
+[Unit]
+Description=Smarthome
+After=local-fs.target network-online.target pigpiod.service
+[Service]
+User=yourUser    
+WorkingDirectory=/path/to/WLED-HAP     
+ExecStart=/path/to/python -u smart_home.py
+[Install]
+WantedBy=multi-user.target
