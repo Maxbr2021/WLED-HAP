@@ -1,3 +1,27 @@
+Accessories/Light.py
+    What: NeoPixelLightStrip and TV helper functions and basic structure
+    Inspired from: HAP-python [1]
+    Original files: HAP-python/accessories/TV.py and HAP-python/accessories/NeoPixelLightStrip.py
+      https://github.com/ikalchev/HAP-python/blob/dev/accessories/TV.py
+      https://github.com/ikalchev/HAP-python/blob/dev/accessories/NeoPixelLightStrip.py
+      
+main.py  
+    Inspired from: HAP-python [1]
+    Original file:
+      https://github.com/ikalchev/HAP-python/blob/dev/main.py
+
+
+Footnotes
+=========
+
+[1] Hap python
+    Source URL: https://github.com/ikalchev/HAP-python
+    Copyright: The HAP-python Authors
+    License: Apache License 2.0
+    License URL: https://github.com/ikalchev/HAP-python/blob/dev/LICENSE
+
+===============================================================================
+
                                  Apache License
                            Version 2.0, January 2004
                         http://www.apache.org/licenses/
